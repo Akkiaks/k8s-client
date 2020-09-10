@@ -5,3 +5,6 @@ provisioning K8s cluster using Python, deploying the test application, verifying
 bookinfo app Yaml
 # Environment
 Minikube
+
+# Script execution and options 
+$python main.py --help    // list out the option available
