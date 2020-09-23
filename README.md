@@ -2,12 +2,9 @@
 -- First attemp of writing python scripts---
 provisioning K8s cluster using Python, deploying the test application, verifying the pods are running, the product page is available and accessible, generating test traffic load, and collecting the results.
 
-This is some changes to Dev.
-changes   by Ankita
 
-Changes by Viha
-# This is the headline for readme
-*********************************************************
+
+
 # Files Content
 bookinfo app Yaml
 # Environment
